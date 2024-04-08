@@ -28,31 +28,33 @@ The BMI Calculator App is a simple, user-friendly application designed to calcul
 
 ## 📌 Installation
 
-```dart
-git clone https://github.com/your_username/bmi_calculator.git
+```bash
+git clone https://github.com/dgirotto0/bmi_calculator.git
 cd bmi_calculator
 flutter run
 ```
 
 ## 📌 Dependencies
 
-```dart
+```yaml
 dependencies:
   cupertino_icons: ^1.0.6
   flutter_svg: ^2.0.7
 ```
-```dart
+```yaml
 dev_dependencies:
   flutter_lints: ^3.0.0
 ```
 
 ## 📌 Screenshots
 
+```html
 <div style="display:flex; justify-content:center;">
     <img src="./screenshots/welcome_screen.png" alt="Welcome Screen" width="250">
     <img src="./screenshots/home_screen.png" alt="Home Screen" width="250">
     <img src="./screenshots/result_screen.png" alt="Result Screen" width="250">
 </div>
+```
 
 ## 📌 Contributing
 
