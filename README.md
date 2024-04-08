@@ -47,9 +47,11 @@ dev_dependencies:
 
 ## 📌 Screenshots
 
-![Welcome Screen](./screenshots/welcome_screen.png)
-![Home Screen](./screenshots/home_screen.png)
-![Result Screen](./screenshots/result_screen.png)
+<div style="display:flex; justify-content:center;">
+    <img src="./screenshots/welcome_screen.png" alt="Welcome Screen" width="250">
+    <img src="./screenshots/home_screen.png" alt="Home Screen" width="250">
+    <img src="./screenshots/result_screen.png" alt="Result Screen" width="250">
+</div>
 
 ## 📌 Contributing
 
