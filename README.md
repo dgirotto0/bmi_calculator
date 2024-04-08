@@ -48,13 +48,11 @@ dev_dependencies:
 
 ## 📌 Screenshots
 
-```html
 <div style="display:flex; justify-content:center;">
     <img src="./screenshots/welcome_screen.png" alt="Welcome Screen" width="250">
     <img src="./screenshots/home_screen.png" alt="Home Screen" width="250">
     <img src="./screenshots/result_screen.png" alt="Result Screen" width="250">
 </div>
-```
 
 ## 📌 Contributing
 
