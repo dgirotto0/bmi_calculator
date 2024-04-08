@@ -6,6 +6,7 @@
 - [Features](#-features)
 - [How to Use](#-how-to-use)
 - [Installation](#-installation)
+- [Dependencies](#-dependencies)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 
