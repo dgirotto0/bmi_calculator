@@ -33,6 +33,18 @@ cd bmi_calculator
 flutter run
 ```
 
+## 📌 Dependencies
+
+```dart
+dependencies:
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^2.0.7
+```
+```dart
+dev_dependencies:
+  flutter_lints: ^3.0.0
+```
+
 ## 📌 Screenshots
 
 ![Welcome Screen](./screenshots/welcome_screen.png)
